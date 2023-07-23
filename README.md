@@ -28,12 +28,12 @@ Users should be able to:
 ### Screenshot
 
 ![](./images/capturas/Captura-Mobile.png)
-![](./images/capturas/Captura-MDesktop.png)
+![](./images/capturas/Captura-Desktop.png)
 
 ### Links
 
--   Solution URL: [Add solution URL here](https://your-solution-url.com)
--   Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+-   Solution URL: [Webmounster solution URL here](https://github.com/Webmounster/Interactive-rating-component)
+-   Live Site URL: [Webmounster live site URL here](https://webmounster.github.io/Interactive-rating-component/)
 
 ## My process
 
